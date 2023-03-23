@@ -5,6 +5,6 @@
 In this project, I deployed a highly availability web app using Cloudformation on the Amazon CLI and my IAM user configured on us-east-1.
 
 <h2>Summary</h2>
-All resources were properly deployed, tested and deleted with the DNS of the Load Balancer as: "udagr-WebAp-PXBJYDAQ6R1K-1725280450.us-east-1.elb.amazonaws.com"
+All resources were properly deployed, tested and deleted with the DNS of the Load Balancer as: "udagr-WebAp-8HJA296F8C5W-780683283.us-east-1.elb.amazonaws.com"
 
 You can find the attached as the credentials and screenshots of my deployment
